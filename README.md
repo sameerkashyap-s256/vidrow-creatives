@@ -1,6 +1,6 @@
 # Vidrow creatives on Bachatt
 
-Static page: https://bachatt-app.github.io/vidrow-creatives/
+Static page: https://sameerkashyap-s256.github.io/vidrow-creatives/
 
 Same rows as the **User data** tab of Vidrow's "Bachatt Delivery Tracker" sheet, plus an opening frame,
 language, live-since date and funnel state. Only Vidrow creatives with Meta spend are listed.
